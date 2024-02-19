@@ -7,7 +7,7 @@ It was a wonderful project to do, and we enjoyed every single part of the proces
 
 Made with happiness caused by accute octo-plushie cuteness by us, [Ermina Trontzou](https://github.com/ErminaTrontzou/) and [Maciej Ratkiewicz](https://github.com/MaciejRtk95/).
 
-![our octopus plushie in its natural habitat](https://github.com/Erek-Razou/AR-Octopus/blob/main/Screenshots/Screenshot_20240109-215410_Hello_Vuforia.png)
+![our octopus plushie in its natural habitat](https://github.com/Erek-Razou/AR-Octopus/blob/main/Screenshots/Screenshot_20240109_215410_Hello_Vuforia.jpg)
 
 
 ## What it is, how to use it
